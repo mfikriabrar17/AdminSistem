@@ -20,6 +20,6 @@ Anda bisa mengeedit seperti contoh di atas, kemudian lakukan apt-get update.
 
 Kemudian install ulang, jika sudah terinstall maka cek IP anda untuk mengkoneksikan ke filezila.
 
-![alt text](FTP4.png)
+![alt text](FTP4.PNG)
 
 Kemudian jika anda sudah menginstall filezila, isi host dengan IP anda, username dengan nama debian anda, dan password debian anda, serta port 21. Kemudian klik quickconnect. Filezila siap digunakan.
